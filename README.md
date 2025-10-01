@@ -65,6 +65,6 @@ It provides an easy interface to **register, add items, search items, and manage
 
 ---
 
-If you want, I can **also make a “super recruiter-friendly” version** that’s shorter, highlights your skills, and looks professional on GitHub so companies immediately notice it.
+
 
 Do you want me to do that too?
