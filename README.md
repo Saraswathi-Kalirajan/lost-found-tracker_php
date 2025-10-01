@@ -65,6 +65,3 @@ It provides an easy interface to **register, add items, search items, and manage
 
 ---
 
-
-
-Do you want me to do that too?
